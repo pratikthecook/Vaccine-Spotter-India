@@ -1,6 +1,12 @@
 # Vaccine spotter for India
 
+Original Author: https://github.com/akshaynathr/Vaccine-Spotter-India
 
+Modified Features:
+1) Checks for age18+ Added
+2) Pincode added in response
+3) 2 API request every minute for today and tommorow
+4) Formatted email subject so can appear as new email every time
 
 Vaccine spotter is a simple tool for tracking the availability of Covid vaccines in any state in India
 It uses the api from COWIN site to monitor for vaccine availability and sent an immediate email to user.
