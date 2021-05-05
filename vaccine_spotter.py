@@ -15,7 +15,7 @@ minutes = 1
 today = date.today()
 
 
-__district = "363" #kannur
+__district = "363" #pune
 
 
 
