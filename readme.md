@@ -7,6 +7,7 @@ Modified Features:
 2) Pincode added in response
 3) 2 API request every minute for today and tommorow
 4) Formatted email subject so can appear as new email every time
+5) Added district id for Maharashtra
 
 Vaccine spotter is a simple tool for tracking the availability of Covid vaccines in any state in India
 It uses the api from COWIN site to monitor for vaccine availability and sent an immediate email to user.
